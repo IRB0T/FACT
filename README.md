@@ -1,4 +1,6 @@
-# FACT - Designed to help FORENSIC professionals to ACT smartly
+# FACT - Forensic Artifact Comprehensive Triage 
+
+FACT - Designed to help FORENSIC professionals to ACT smartly
 
 FACT is designed to automate repetitive tasks and reduces the examiner efforts and expedite the investigation by extracting vital artifacts from a mounted device, and there after apply advanced intelligence to uncover details. 
 
@@ -27,3 +29,5 @@ Want to contribute? Reach out to us via email "developeronvacation@gmail.com"
 MIT
 
 ** Free Software **
+
+FACT : Forensic-Artifact-Comprehensive-Triage
