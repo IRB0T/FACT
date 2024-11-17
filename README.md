@@ -18,7 +18,7 @@ Just Download FACT executable from following link: [FACT](https://github.com/IRB
 <br>!that's all it required!
 
 ## How To Use
-![FACT](https://github.com/IRB0T/FACT/blob/main/FACT_v1.2.gif)
+[![Watch the video](https://img.youtube.com/vi/EeaQD2kwfcQ/0.jpg)](https://youtu.be/EeaQD2kwfcQ)
 
 ## Development
 Want to contribute? Reach out to us via email "developeronvacation@gmail.com"
