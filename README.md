@@ -14,10 +14,11 @@ FACT uses number of tools/software which you may have previously utilized like: 
 - And of course FACT itself is a open source with a [public repository](https://github.com/IRB0T/FACT) on GitHub.
 
 ## Installation
-Just Download FACT executable from following link: [FACT](https://github.com/IRB0T/FACT/releases/tag/FACT) and Run it as Administrator.
+Just Download FACT executable from following link: [FACT](https://github.com/IRB0T/FACT/releases/tag/FACT_v2.0) and Run it as Administrator.
 <br>!that's all it required!
 
 ## How To Use
+[Click to watch video](https://youtu.be/EeaQD2kwfcQ)
 [![Watch the video](https://img.youtube.com/vi/EeaQD2kwfcQ/0.jpg)](https://youtu.be/EeaQD2kwfcQ)
 
 ## Development
